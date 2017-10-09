@@ -17,7 +17,7 @@
 ## 1. Introduction
 This is a full walkthrough for building the machine learning model for Porto Seguro’s Safe Driver Prediction dataset provided by Porto Seguro. Stratified KFold is used due to inbalance of the output variable. XGBoost is used because it is like the winning ticket for classification problem with formatted data. (XGBoost winning solutions) First, I will prepare the data (driver's information and whether the driver initiated auto insurance or not) then I will focus on prediction.
 
-   ## XGBoost
+   ### XGBoost
   
   
 ## 2. Data Preparation
